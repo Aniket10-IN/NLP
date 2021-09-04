@@ -1,5 +1,8 @@
 # NLP
-1. Fake_News_Classifier. Dataset(Kaggle Competiton)
+1. Extracting Entity, Key Phrases and finally estimating sentiments.
+(NLTK, Spacy, BeautifulSoup for WebScrapping)
 
-2. Sentiment analysis of text using Tensorflow,
-     Creating poetry using Bidirectional LSTM.
+2. Fake_News_Classifier. 
+
+3. Sentiment analysis of text using Tensorflow,
+   Creating poetry using Bidirectional LSTM.
